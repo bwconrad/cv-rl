@@ -1,0 +1,11 @@
+jsonargparse==4.21.1
+numpy==1.24.3
+opencv_python==4.7.0.72
+pandas==2.0.1
+Pillow==10.0.0
+pytorch_lightning==2.0.2
+segmentation_models_pytorch==0.3.3
+torch==2.0.1
+torchmetrics==1.0.1
+torchvision==0.15.2
+transformers==4.30.0
